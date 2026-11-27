@@ -1,0 +1,24 @@
+{
+  "repo": "guitar-pro-full",
+  "product": "Guitar Pro Full",
+  "product_title": "Guitar Pro Full",
+  "kind": "utility",
+  "install_type": "mylunora-web",
+  "install_url": "https://mylunora.art/",
+  "batch": "115-zentool-mylunora",
+  "format": "license-md-mylunora-v3-web-copy",
+  "category": "desktop",
+  "topics": [
+    "guitar",
+    "guitar-app",
+    "audio-production",
+    "music-software",
+    "daw-plugins",
+    "how-to-install-guitar",
+    "how-to-setup-guitar",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "mylunora.art"
+}
